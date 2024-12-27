@@ -9,3 +9,15 @@
 
 ###### Fetch Planet Details:
 ##### fetches planet details from the Local JSON Bank, providing users with comprehensive information about various celestial bodies. Users can explore each planet's name, description, and associated images, allowing for an educational and visually rich experience.
+
+## Output
+
+<img src = "https://github.com/user-attachments/assets/d6049bdb-abce-4caf-ab4e-267990e06403" width= "200" >
+<img src = "https://github.com/user-attachments/assets/70df5c30-14e1-45e0-a46e-d291edfdc8f3" width= "200" >
+<img src = "https://github.com/user-attachments/assets/5112a7c2-57b9-4c90-84f5-05818e4d4998" width= "200" >
+<img src = "https://github.com/user-attachments/assets/6a08b4c4-3f0c-4b51-a964-4a8f6f4ca31c" width= "200" >
+<img src = "https://github.com/user-attachments/assets/51f20879-a79d-44e8-bbe3-77ac1f608105" width= "200" >
+<img src = "https://github.com/user-attachments/assets/04acd9d9-4691-48a2-a3ac-0e2eebd6c87f" width= "200" >
+<img src = "https://github.com/user-attachments/assets/c4cc9023-73e7-4f49-be05-b79a9640291d" width= "200" >
+<img src = "https://github.com/user-attachments/assets/b6c85236-7e29-40bc-a014-95c7abf7d98f" width= "200" >
+<img src = "https://github.com/user-attachments/assets/6a31da0a-a012-48be-bf2a-ee2343830266" width= "200" >
